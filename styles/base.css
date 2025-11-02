@@ -144,6 +144,8 @@ p {
 
 		.nav {
 			position: static;
+			width: auto;
+			height: auto;
 			display: inline-block;
 		}
 	}
