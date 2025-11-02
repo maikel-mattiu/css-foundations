@@ -130,7 +130,7 @@ p {
 	}
 
 	@media (width >= 28.75rem) {
-		.menu .nav {
+		.menu {
 			width: 1.875rem;
 			height: 1.875rem;
 		}
